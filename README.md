@@ -2,8 +2,8 @@
 ---
 ### About Me
 
-- I'm a web developer and I use **.NET**
+- I'm a Sofwtare developer and I use **.NET**
 
-- I create programming based tutorials on my [Youtube Channel](https://www.youtube.com/c/samakosh)
+- I create programming based tutorials on my [Youtube Channel](https://www.youtube.com/channel/UCM9v2pIVVZ3DnyrQJm0uF0A)
 
 ---
